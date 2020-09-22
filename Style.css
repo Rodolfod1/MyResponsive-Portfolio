@@ -11,9 +11,7 @@
     text-align: center;
     color: #181613;
     background-color: rgb(167, 200, 228);
-     
-
-   }
+        }
 
    body {
        background-color: transparent;
@@ -33,13 +31,11 @@ h2 {
   /* Footer */
 /* containig position sticky */
 footer {
-    
     position: sticky;
     left: 0;
     bottom: 0;
     width: 100%;
     margin-top: 20px;
-     
 }
 
 /*  Index page  */
