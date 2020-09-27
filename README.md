@@ -7,7 +7,7 @@
 
     - Bold and approach since my artistic skills are just being develop. 
     - As I grow up on my full stack carreer, will improve this portfolio adding fresher and appealing features.
-    - Basic features are show cased by now with full concept understanding.
+    - Basic features are showcased by now with full concept understanding.
 
 ## This project Content:
     * HTML files: 
