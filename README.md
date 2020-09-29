@@ -24,7 +24,7 @@
      - It has all the images i used for this project.
 
 for some screen shots of this work please load the page 
-![screen shots](capture.html)
+https://github.com/Rodolfod1/MyResponsive-Portfolio/blob/master/capture.html
 
 ## How to best use this. 
  - Fork, clone, deploy. 
