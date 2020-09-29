@@ -23,7 +23,8 @@
     *Asset Folder:
      - It has all the images i used for this project.
 
-for some screen shots of this work please load the page <capture.html>
+for some screen shots of this work please load the page 
+![screen shots](capture.html)
 
 ## How to best use this. 
  - Fork, clone, deploy. 
